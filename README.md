@@ -1,16 +1,27 @@
-## Hi there 👋
+## olá, sou emanuel sales! 
 
-<!--
-**emanuelmarcianosales-eng/emanuelmarcianosales-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sobre mim**
 
-Here are some ideas to get you started:
+-nome:emanuel marciano sales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-idade:15 anos
+
+-cidade:ponta grossa
+
+-sexo:masculino
+
+## curso que estou fazendo
+
+-faço exatas
+
+## instituição de ensino
+
+-instituto de educação professor cezar prietro
+
+## objetivos proficionais
+
+-entrar para o exercito brasileiro
+
+## formas de contato
+
+42 99125-1089
